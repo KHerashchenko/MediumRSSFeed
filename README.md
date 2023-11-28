@@ -1,8 +1,8 @@
 # Medium RSS Feed Summarization platform
 
-The repository shares the code used for developing the **real-time data pet project** explained in [this Medium article](https://medium.com/@kategera6/pet-project-idea-a-real-time-content-summarization-platform-1e2773b716c4)
+The repository shares the codes and [configurations](./configurations/) used for developing the **real-time data pet project** explained in [this Medium article](https://medium.com/@kategera6/pet-project-idea-a-real-time-content-summarization-platform-1e2773b716c4)
 
-**Technical Overview**  
+**Technical Overview**
 
 This project is a real-time content aggregation and summarization platform.  
 It leverages several key technologies, including **Kafka, Spark Streaming, OpenAI API, MongoDB, and Streamlit**.

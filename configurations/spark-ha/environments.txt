@@ -1,0 +1,2 @@
+/DIC/anaconda3
+/DIC/anaconda3/envs/pyspark
